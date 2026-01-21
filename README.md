@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Lucas Beghetto Dias, tenho 17 anos e sou natural de Curitiba. Concluí o ensino médio no Sesi(Campo Largo), com o curso técnico em desenvolvimento de sistemas. Atualmente, estou estudando programação por cursos de internet e vídeoaulas, sempre buscando aprimorar minhas habilidades na área.
+Me chamo Lucas Beghetto Dias, tenho 17 anos e sou natural de Curitiba. Concluí o ensino médio no Sesi (Campo Largo), com o curso técnico em desenvolvimento de sistemas. Atualmente, estou estudando programação por cursos de internet e vídeoaulas, sempre buscando aprimorar minhas habilidades na área.
 
 <p align="left">
     <a href="https://github.com/lucasdevelop2008?tab=repositories&sort=stargazers">
