@@ -40,11 +40,11 @@ Me chamo Lucas Beghetto Dias, tenho 17 anos e sou natural de Curitiba. Concluí 
 
 <p>
   <img 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBeghettoDias&layout=compact)
+   
   />
 
-<img 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBeghettoDias&show_icons=true&theme=radical)  
+   <img 
+   
   />
 
 </p>
