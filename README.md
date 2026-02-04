@@ -53,15 +53,3 @@ Me chamo Lucas Beghetto Dias, tenho 17 anos e sou natural de Curitiba. Concluí 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdevelop2008&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
